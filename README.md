@@ -4,7 +4,7 @@
     <img alt="note_logo" src="docs/_assets/icon.png" width="20%">
     </picture>
     </br>
-    <b><a href="https://github.com/DaLi-Jack/Notebooks/">DaLi's notebook</a></b>
+    <b><a href="https://dali-jack.github.io/Notebooks/">DaLi's notebook</a></b>
 </p>
 
 I hope to write down the knowledge I learn in daily life while improving my English writing skills.
