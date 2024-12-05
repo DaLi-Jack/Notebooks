@@ -177,4 +177,9 @@ It is invoked at each push to master branch.
 
 **Remember to enable Workflow permission.**
 
-![](./assets/enable_workflow.png)
+![](./assets/enable-workflow.png)
+
+**Use gh-deploy branch**
+
+![](./assets/branch-setting.png)
+
