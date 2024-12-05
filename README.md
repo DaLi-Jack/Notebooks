@@ -7,9 +7,9 @@
     <b><a href="https://github.com/DaLi-Jack/Notebooks/">DaLi's notebook</a></b>
 </p>
 
-I hope to document the knowledge I learn in daily life while improving my English writing skills.
+I hope to write down the knowledge I learn in daily life while improving my English writing skills.
 
-Some of the interpretations in the notes might be incorrect, but I will continuously revise and refine them.
+Some of the understandings in the notes might be incorrect, but I will continuously revise and refine them.
 
 Feel free to open an issue for any discussion!
 
