@@ -23,17 +23,23 @@ Then add your markdowns to `docs`. Folder structure will be preserved in the nav
 edit `mkdocs.yml`, an example:
 
 ```yaml
-site_name: Kiui's notebook # web page name
+site_name: DaLi's notebooks
 theme:
+  logo: _assets/icon.png
+  favicon: _assets/icon.png
   name: material
   palette:
-    primary: grey
-    accent: amber
+    primary: brown
+    accent: lime
   features:
-    - navigation.instant
+    - navigation.instant  
     - navigation.tracking
-    - navigation.top # back-to-top button
-repo_url: https://github.com/ashawkey/Notebooks
+    - navigation.top
+    - header.autohide
+    - search.suggest
+    - search.highlight
+    - search.share
+repo_url: https://github.com/DaLi-Jack/Notebooks
 plugins:
   - search
 markdown_extensions:

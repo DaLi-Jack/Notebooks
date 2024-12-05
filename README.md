@@ -18,7 +18,7 @@ Feel free to open an issue for any discussion!
 All notes are in markdown format, and kept under `docs`.
 
 I use [typora](https://typora.io/) for local editing, and periodically sync it to github.
-The website is automatically deployed with [mkdocs](https://github.com/mkdocs/mkdocs) after each sync (with [this simple script](sync.ps1) on Windows), you can find the related note [here](https://note.kiui.moe/python/mkdocs/).
+The website is automatically deployed with [mkdocs](https://github.com/mkdocs/mkdocs), you can find the related note [here](https://dali-jack.github.io/Notebooks/github/mkdocs/mkdocs/).
 
 
 ### Acknowledgements
